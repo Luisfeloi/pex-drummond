@@ -188,6 +188,8 @@ body .full-width {
 
 .form-group button {
   border: 0.5rem solid var(--white);
+  border-style: groove;
+  border-radius: 8px;
   background: none;
   color: var(--white);
   padding: 1.5rem 2rem;
